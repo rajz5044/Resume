@@ -1,0 +1,94 @@
+.section-x{
+    padding: 200px 550px;
+
+}
+p{
+    font-size: 16px;
+}
+
+h3{
+    font-size: 5px;
+    
+}
+
+
+
+#rajz{
+    display: flex;
+    
+    
+}
+
+
+#rajz .user{
+    display: flex;
+    justify-content: space-between;
+}
+
+.x{
+    height:25px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 0px solid black;
+    border-radius: 10px;
+    background-color: rgb(225, 224, 224);
+    padding-left: 10px;
+}
+
+.but{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 122px;
+}
+
+button{
+    font-size: 17px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+button:hover{
+    background-color: rgb(177, 177, 177);
+    color: #fff;
+    border:1px solid black;
+    transition: 0.2s;
+}
+
+.b{
+   margin-top: 10px;
+   padding: 5px 85px
+
+}
+
+.a{
+    margin-left: 65px;
+}
+
+.e{
+    margin-left: 79px;
+}
+
+.c{
+    margin-left: 59px;
+}
+
+.d{
+    margin-left: 13px;
+    padding: 0 15px;
+}
+
+.v{
+    padding: 5px 113px;
+    margin-bottom: 5px;
+}
+
+.vx{
+    padding: 5px 100px;
+    margin-bottom: 5px;
+}
+
+.vxy{
+    padding: 5px 106px;
+    margin-bottom: 5px;
+}
